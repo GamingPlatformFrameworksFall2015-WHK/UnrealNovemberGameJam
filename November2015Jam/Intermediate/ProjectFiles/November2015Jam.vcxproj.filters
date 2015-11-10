@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\November2015Jam.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{861EA982-5599-436F-99AE-7C496251256A}</UniqueIdentifier>
+			<UniqueIdentifier>{69ECC2C1-CA3E-4925-BB7C-78A207A9923E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\November2015Jam.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{8A840250-337A-41C5-B1B9-C303826E9FB8}</UniqueIdentifier>
+			<UniqueIdentifier>{AE170352-8E0E-4712-A430-B2C3843E4E2A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\November2015Jam">
-			<UniqueIdentifier>{5C41482B-B56D-4E9A-9805-67427AE10968}</UniqueIdentifier>
+			<UniqueIdentifier>{80B24A4A-8357-4DCB-B67B-FA52BDF3398C}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\November2015Jam\November2015Jam.Build.cs">
 			<Filter>Source\November2015Jam</Filter>
